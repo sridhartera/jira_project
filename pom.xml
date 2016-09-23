@@ -4,7 +4,7 @@
 
   <groupId>org.sonatype.mavenBook</groupId>
   <artifactId>simple</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>simple</name>
